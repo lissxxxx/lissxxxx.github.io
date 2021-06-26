@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm lissxxxx.
 
 ![lissxxxx](https://komarev.com/ghpvc/?username=lissxxxx&color=green&style=flat-square "lissxxxx")
 
@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Profiles:</h3>
 
-![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissxxxx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lissxxxx&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lissxxxx&layout=compact&count_private=true) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lissxxxx)](https://github.com/ryo-ma/github-profile-trophy) -->
