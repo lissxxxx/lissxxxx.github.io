@@ -35,4 +35,12 @@ Here are some ideas to get you started:
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Profiles:</h3>
 
+![](https://raw.githubusercontent.com/lissxxxx/lissxxxx/main/profile-summary-card-output/github/0-profile-details.svg)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissxxxx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lissxxxx&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lissxxxx&layout=compact&count_private=true) -->
